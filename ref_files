@@ -6,3 +6,6 @@ https://github.com/SuperTao/LinuxDriver/blob/master/document/chardev/proc/proc_c
 
 gh--pro
 https://github.com/AgentGuo?tab=repositories
+
+//hook dll 分析windows程序 exe 注册表 socket bind connect等行为
+https://github.com/AgentGuo/PFSafetyGuard
