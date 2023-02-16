@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("flygoast");
+MODULE_AUTHOR("hello");
 MODULE_DESCRIPTION("A Simple Character Device driver module");
 
 static struct cdev cdev;
