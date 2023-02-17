@@ -13,3 +13,6 @@ https://github.com/AgentGuo/PFSafetyGuard
 
 //字符设备驱动， 可以实现读/写，定位，传递私有数据的功能。ioctl
 https://github.com/nsood/LinuxDriver_CodeList/blob/master/06/%E5%8C%85%E5%90%AB2%E4%B8%AAglobalmem%E8%AE%BE%E5%A4%87%E7%9A%84%E9%A9%B1%E5%8A%A8/globalmem_two.c
+
+//含并发控制的sem globalmem驱动
+https://github.com/nsood/LinuxDriver_CodeList/blob/master/07/%E5%90%AB%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6%E7%9A%84globalmem%E9%A9%B1%E5%8A%A8/globalmem_lock.c
