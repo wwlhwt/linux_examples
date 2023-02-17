@@ -20,3 +20,6 @@ https://github.com/nsood/LinuxDriver_CodeList/blob/master/07/%E5%90%AB%E5%B9%B6%
 
 //内核中 休眠唤醒的使用 （wait_event、wake_up）
 https://blog.csdn.net/ZHONGCAI0901/article/details/120348014
+
+//参考uboot写的bootloader
+https://github.com/drewwei/bootloader
